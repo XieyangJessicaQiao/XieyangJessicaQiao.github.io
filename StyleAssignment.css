@@ -1,0 +1,81 @@
+
+a:link, a:visited {
+    background-color: #BC8F8F;
+    color: #FFFAFA;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+h1{
+font-family: 'Quattrocento', serif;
+  font-size: 35px;
+  color:grey;
+  text-align: center;
+  border: 3px solid pink;
+  background-color: ivory;
+}
+h2{
+  font-size: :25px;
+  color:grey;
+  font-family: Garamond;
+  text-align:center;
+  border:3px dotted pink;
+  background-color: ivory;
+}
+body{
+  background-color: white;
+  font-family: Garamond;
+}
+img{
+position: center;
+height: 350px;
+width:550px;
+padding:50px 300px 50px 300px;
+border: 4px dotted pink;
+}
+figcaption{
+  color:DarkGrey;
+  text-align: center;
+}
+p {
+  font-size:18px;
+  font-family: Garamond;
+  color: grey;
+  letter-spacing: 1.5px;
+}
+.byline {
+  color: DarkGrey;
+  font-size: 20px;
+  font-weight: 200;
+  font-style: oblique;
+  text-align: center;
+}
+.dateline {
+  color:pink;
+  text-align: center;
+}
+.cursive {
+  font-family: cursive;
+}
+.uppercase {
+  text-transform: uppercase;
+}
+iframe {
+   max-width:64rem;
+   width:25%;
+   max-height:30.875rem;
+   height:25%;
+   margin:1.25rem auto;
+   padding:2.051%;
+   background-color:#FDF5E6;
+   text-decoration: overline;
+   display: block;
+   margin: 0 auto;
+ }
+ .striped-border{
+border-style: double;
+border-color: DarkGrey;
+text-align: center;
+background-color: #FFFFF0;}
