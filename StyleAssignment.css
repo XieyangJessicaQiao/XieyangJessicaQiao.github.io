@@ -30,9 +30,7 @@ body{
 }
 img{
 position: center;
-height: 350px;
-width:550px;
-padding:50px 300px 50px 300px;
+width:100%;
 border: 4px dotted pink;
 }
 figcaption{
