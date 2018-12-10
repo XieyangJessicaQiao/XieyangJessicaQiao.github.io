@@ -15,10 +15,9 @@ article {
 h2 {
     letter-spacing: 2px;
     font-family: "Adobe Caslon Pro", "Hoefler Text", Georgia, Garamond, Times, serif;
-    font-weight: bold;
     font-variant: small-caps;
     text-decoration: none;
-    font-size:35px;
+    font-size:30px;
  }
 
 h3 {
@@ -27,7 +26,7 @@ h3 {
   text-align: center;
   margin: 25px auto;
   line-height: 1.6;
-  font-size: 16pt;
+  font-size: 15pt;
   font-variant: small-caps;
   font-weight: bold;
   color: #5F9EA0;}
@@ -85,12 +84,22 @@ h3 {
   max-width: 100%;
 }
 
+.FAQ {
+    position: relative;
+    margin-bottom: 30px;
+    padding: 30px 15px;
+    text-align: center;
+    color: #808080;
+    background-color: #F5F5DC;
+    font-size: 1.25rem;
+}
+
 .caption{
-  font-family:"proxima-nova", "Proxima Nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 16px;
-  font-weight: lighter;
+  font-family:fantasy;
+  font-size: 14px;
   line-height: 30px;
   max-width: 100%;
+  font-weight: light;
   font-style: italic;
 }
 
@@ -100,20 +109,13 @@ br {
   margin-top: 25px;
 }
 
-p:first-letter {
-    float: left;
-    font-size: 40px;
-    line-height: 1;
-    font-weight: bold;
-    margin-right: 9px;
-}
 
 byline {
 font-family: "Poynter OS Display", "Times New Roman", Georgia, serif;
 font-style: normal;
 font-variant: small-caps;
 text-decoration: none;
-font-size:20px
+font-size:14px
 }
 
 dateline {
@@ -121,5 +123,5 @@ dateline {
   font-style: normal;
   font-variant: small-caps;
   text-decoration: none;
-  font-size:20px;
+  font-size:14px;
 }
